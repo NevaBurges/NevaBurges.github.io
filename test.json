@@ -1,0 +1,13 @@
+[
+  {
+    "_index" : "tsd_docs",
+    "_type" : "_doc",
+    "_id" : "vLXQtYABZTfcIBQFVZmo",
+    "_score" : 1.0,
+    "_source" : {
+      "original_CHN_full_text" : "新华社北京3月17日电/n/n中华人民共和国国民经济和社会发展第十三个五年规划纲要\n\n目录\n\n第一篇　指导思想、主要目标和发展理念/n第一章　发展环境\n\n第二章　指导思想",
+      "doc_name" : "13th-5-year-plan-full",
+      "official_english_trans_full_text" : ""
+    }
+  }
+]
